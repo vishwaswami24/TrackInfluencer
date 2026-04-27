@@ -109,14 +109,14 @@
                                         │
                                         │ HTTP / REST
                                         ▼
-                               ┌──────────────────────┐
-                               │   Python AI Service  │
-                               │  (FastAPI + OpenAI)  │
-                               │                      │
-                               │  • Sales Prediction  │
+                               ┌───────────────────────┐
+                               │   Python AI Service   │
+                               │  (FastAPI + OpenAI)   │
+                               │                       │
+                               │  • Sales Prediction   │
                                │  • Influencer Insights│
-                               │  • Fraud Detection   │
-                               └──────────────────────┘
+                               │  • Fraud Detection    │
+                               └───────────────────────┘
 ```
 
 ### Communication Flow
