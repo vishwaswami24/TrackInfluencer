@@ -28,8 +28,6 @@
     <a href="#-api-reference">API Reference</a>
   </p>
 
-  <img src="frontend/src/assets/hero.png" alt="TrackInfluencer Dashboard Preview" width="80%" />
-
 </div>
 
 ---
